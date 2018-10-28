@@ -13,7 +13,7 @@ function whileLoop(n) {
   while (n >= 0) {
     console.log(--n);
   }
-  console.log('Done.');
+  console.log('done');
 }
 
 var i = 0;
